@@ -12,7 +12,9 @@ Seeking an entry-level data or analytics role to support data-driven decision-ma
 
 # Education and Qualifications
 Monash University – Bachelor of Commerce / Bachelor of Computer Science
+
 Majors: Econometrics; Advanced Computer Science
+
 Years Studied: 2022-2025
 
 # Technical Skills
