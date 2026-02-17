@@ -18,17 +18,17 @@ Majors: Econometrics; Advanced Computer Science
 Years Studied: 2022-2025
 
 # Technical Skills
-* **Programming & Querying**: Python, R, SQL
-* **Data Analysis & Visualisation**: Power BI, Excel, R
-* **Statistical Analysis & Econometrics**: Regression, Time Series, Forecasting, Causal Inference
-* **Machine Learning**: Supervised & Unsupervised Learning, Model Evaluation
-* **Economic & Financial Modelling**
-* **Data Wrangling, Cleaning & Database Management**
-* **Quantitative & Mathematical Analysis**
+- **Programming & Querying:** Python, R, SQL
+- **Data Analysis & Visualisation:** Power BI, Excel, R
+- **Statistical Analysis & Econometrics:** Regression, Time Series, Forecasting, Causal Inference
+- **Machine Learning:** Supervised & Unsupervised Learning, Model Evaluation
+- **Economic & Financial Modelling**
+- **Data Wrangling, Cleaning & Database Management**
+- **Quantitative & Mathematical Analysis**
 
 # Professional Skills
-* Analytical & Problem Solving
-* Communication
-* Commercial Awareness
-* Teamwork & Collaboration
-* Professional Attributes
+- Analytical & Problem Solving
+- Communication
+- Commercial Awareness
+- Teamwork & Collaboration
+- Professional Attributes
