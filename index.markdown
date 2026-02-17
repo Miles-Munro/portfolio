@@ -1,7 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-Hello there!
+
+Hello there! I'm Miles and this is my Data blog. If you're interested in Data, Statistics, Computer Science and more, please stick around, read some of my posts. If you want to connect, please send me an email. I'd be happy to respond. If you want to learn more about me, please visit my [About Me](/portfolio/about/) or if you want to learn more about my professional skills, please see my [CV](/portfolio/cv/).

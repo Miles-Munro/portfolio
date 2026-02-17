@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Curriculum vitae"
-permalink: /cv
+permalink: /cv/
 ---
 # Profile
 Commerce and Computer Science graduate majoring in Econometrics and Advanced Computer Science, with strong capability in statistical analysis, data analytics, and software development. Proficient in Python, R, SQL, and modern data visualisation tools, with applied experience in econometrics, machine learning, and quantitative modelling.
@@ -23,3 +23,10 @@ Years Studied: 2022-2025
 * **Economic & Financial Modelling**
 * **Data Wrangling, Cleaning & Database Management**
 * **Quantitative & Mathematical Analysis**
+
+# Professional Skills
+* Analytical & Problem Solving
+* Communication
+* Commercial Awareness
+* Teamwork & Collaboration
+* Professional Attributes

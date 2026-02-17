@@ -1,0 +1,8 @@
+---
+layout: page
+title: "Plans"
+date: 2026-02-17
+categories: misc
+---
+
+Hello there, welcome to my first blog post. You can expect to find some cool projects on this page. Stay tuned for a post about Australian supermarket prices in 2026, comparing these different retailers to see who's the best to shop at for your needs.

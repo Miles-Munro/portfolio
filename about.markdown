@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about
+permalink: /about/
 ---
 
-This is an about me page
+Under construction.
